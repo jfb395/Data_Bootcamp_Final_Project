@@ -23,6 +23,7 @@ the press surrounding the "Last Three African Black Rhinoceros". There is great 
 However, coinciding with these events, a breadth of tools for data analysis and visualization have come into 
 existence, presenting an opportunity to present data to further illuminate the plight of these and other 
 megafauna, hopefully inspiring action on their behalf. 
+
 This project aims to gather important publically available data on the 
 Loxodonta africana (African Elephant), Diceros bicornis (African Black Rhinoceros) and the Ceratotherium simum 
 (African White Rhinoceros). This information will include their population classification over time, current 
