@@ -12,7 +12,9 @@ Submitting the same or substantially similar work in multiple courses, either in
 or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
-Project Description
+
+Project Description:
+
 Megafauna, like Elephants, Rhinoceros, or other giant animals have been inspiring zoologists and the general 
 public for hundreds of year. They evoke wonder in anyone who looks upon them, and the groups largely 
 vegetarian existence gives them the allure of a gentle giant. However, Megafauna populations all over the world 
